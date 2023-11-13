@@ -1,6 +1,6 @@
 # JavaFX-EmployeeManagementSystem
 
-#### Employee Management System
+### Employee Management System
 
 Welcome to our Employee Management System application!
 
