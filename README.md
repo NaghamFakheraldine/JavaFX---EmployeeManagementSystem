@@ -1,12 +1,12 @@
 # JavaFX-EmployeeManagementSystem
 
-### Employee Management System
+#### Employee Management System
 
 Welcome to our Employee Management System application!
 
 This application was built for a university project for the course Graphical User Interface - GUI, which is a Design Patterns and JavaFX course.
 
-## The design patterns we used are:
+### The design patterns we used are:
 
 Factory - The factory design pattern serves to generate specific Iterator objects based on different criteria (name, salary, employment date), encapsulating their creation in a centralized place and allowing flexibility to create new instances without exposing the creation logic directly.
 
